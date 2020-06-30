@@ -3,5 +3,5 @@ This project has been created looking toward explorer the R Shiny environment wh
 Covid-19 outbreak, you can check the result at https://robertosaavedra.shinyapps.io/COVID/, the code is at covid.R, due to 
 data cleaning carried out the application could take a while to open(~2min) 
 
-[<img src="https://lh3.googleusercontent.com/YoMNqc_hm7yNkXzbUkhSDkUM1sn37kizQeu5BmqCQR-wbLqB6basSgRCCImjwHYn1NAK6SDRAo60Fh3gEaVJJAzUFgL98shyT47xQVHlo_BKJsv_e54Ms8SUCJg_Rho5Fb-MpGiWSxN9UptNY1-sZ2X6-OPnHEeR4qioQYYBtB0PpcNpzl3ObOKkV3rP0zrdO8rvi8bUCOCs7cdXdWrikiC5kSQCmx0yApcuulAZKe9gLyltFsUJyRhCvIvgmf2hris-npe5oCUYJQVOqfsay5KqMgGHrETSxh8sT0m2NIc0FDxydqFFoKuQw71fCWSLZ3vVPz6TBxSgCwwBSqR3Dj-CYbOgrThf5xtUOI-8aMR3frMu0dczLO7Shm68MAue_ER6HTknWHvgiGhI_Y3ZuB8JoUWaIP2tw4BKbGwz_cvTjj3l_wxD2QBNDxF-AtSBnQx36a_CK5cM-CS85W88vtKG7QXogKzXU82mX7y2pJf5tk3pftqLC2jmqFgxBjRAOXYRWn70sGmCQ3wbdMXldgz4EakizVO73Pfeof-Lia_5MAfNnLk4hcaRclRMX9PgaPRTXlNBkl6ipN5NoW_qL0LmzE_h5A-20dv5U2SrH7sZpr47YrxKK1_LO0cFDLsUIBwLEu7PxG-1NsAlCaWU3CAJDGobqKDARP6O612Tc67eLByAG3YhvUQWuCQ7=w430-h843-no?authuser=0">]
+<img src="example_web.png">
 
